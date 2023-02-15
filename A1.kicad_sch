@@ -4,7 +4,16 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Синтезатор на честота, Радио/1990/1,2,3")
+  )
+
   (lib_symbols
   )
 
+
+  (text "Генератор на еталонна честота, Делител, Комутатор" (at 178.435 175.26 0)
+    (effects (font (size 2.56 2.56)) (justify left bottom))
+    (uuid df04c78d-6b15-483f-bce7-12d3ba3f502e)
+  )
 )
