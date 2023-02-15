@@ -1,0 +1,3 @@
+[submodule "ladihw-kicad-symbols"]
+	path = ladihw-kicad-symbols
+	url = ../ladihw-kicad-symbols
