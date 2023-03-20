@@ -4444,8 +4444,8 @@
     (property "Datasheet" "" (at 215.265 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid 36009244-b899-4c62-a1c2-524c7e15aab9))
-    (pin "" (uuid 36009244-b899-4c62-a1c2-524c7e15aab9))
+    (pin "" (uuid 36009244-b899-4c62-a1c2-524c7e15aabc))
+    (pin "" (uuid 36009244-b899-4c62-a1c2-524c7e15aabc))
     (instances
       (project "radio20-synth"
         (path "/55870dc1-a751-4fb1-a7eb-fe844b64659b/e9549de8-423c-46db-9740-5c353c605944"
@@ -4625,8 +4625,8 @@
     (property "Datasheet" "" (at 180.975 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid 43809124-6e04-4718-be8e-d4dfce6f34c2))
-    (pin "" (uuid 43809124-6e04-4718-be8e-d4dfce6f34c2))
+    (pin "" (uuid 43809124-6e04-4718-be8e-d4dfce6f34c5))
+    (pin "" (uuid 43809124-6e04-4718-be8e-d4dfce6f34c5))
     (instances
       (project "radio20-synth"
         (path "/55870dc1-a751-4fb1-a7eb-fe844b64659b/e9549de8-423c-46db-9740-5c353c605944"
@@ -4918,8 +4918,8 @@
     (property "Datasheet" "" (at 338.455 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid ceb5fd60-e02b-4069-8a30-39d9aed8ffaf))
-    (pin "" (uuid ceb5fd60-e02b-4069-8a30-39d9aed8ffaf))
+    (pin "" (uuid ceb5fd60-e02b-4069-8a30-39d9aed8ffb2))
+    (pin "" (uuid ceb5fd60-e02b-4069-8a30-39d9aed8ffb2))
     (instances
       (project "radio20-synth"
         (path "/55870dc1-a751-4fb1-a7eb-fe844b64659b/e9549de8-423c-46db-9740-5c353c605944"
@@ -4996,8 +4996,8 @@
     (property "Datasheet" "" (at 362.585 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid 2b800156-c27f-446e-99f0-3255a9b47438))
-    (pin "" (uuid 2b800156-c27f-446e-99f0-3255a9b47438))
+    (pin "" (uuid 2b800156-c27f-446e-99f0-3255a9b4743b))
+    (pin "" (uuid 2b800156-c27f-446e-99f0-3255a9b4743b))
     (instances
       (project "radio20-synth"
         (path "/55870dc1-a751-4fb1-a7eb-fe844b64659b/e9549de8-423c-46db-9740-5c353c605944"
@@ -6323,8 +6323,8 @@
     (property "Datasheet" "" (at 311.785 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid 04586014-218f-4084-8807-f52e5f75539b))
-    (pin "" (uuid 04586014-218f-4084-8807-f52e5f75539b))
+    (pin "" (uuid 04586014-218f-4084-8807-f52e5f75539e))
+    (pin "" (uuid 04586014-218f-4084-8807-f52e5f75539e))
     (instances
       (project "radio20-synth"
         (path "/55870dc1-a751-4fb1-a7eb-fe844b64659b/e9549de8-423c-46db-9740-5c353c605944"
@@ -6645,8 +6645,8 @@
     (property "Datasheet" "" (at 190.5 147.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid b552ee3e-068d-4273-9d8b-9ce4621b711d))
-    (pin "" (uuid b552ee3e-068d-4273-9d8b-9ce4621b711d))
+    (pin "" (uuid b552ee3e-068d-4273-9d8b-9ce4621b7120))
+    (pin "" (uuid b552ee3e-068d-4273-9d8b-9ce4621b7120))
     (instances
       (project "radio20-synth"
         (path "/55870dc1-a751-4fb1-a7eb-fe844b64659b/e9549de8-423c-46db-9740-5c353c605944"
@@ -8196,8 +8196,8 @@
     (property "Datasheet" "" (at 233.68 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid 537afe34-d06b-47ba-9f77-d5dda1cdfe80))
-    (pin "" (uuid 537afe34-d06b-47ba-9f77-d5dda1cdfe80))
+    (pin "" (uuid 537afe34-d06b-47ba-9f77-d5dda1cdfe83))
+    (pin "" (uuid 537afe34-d06b-47ba-9f77-d5dda1cdfe83))
     (instances
       (project "radio20-synth"
         (path "/55870dc1-a751-4fb1-a7eb-fe844b64659b/e9549de8-423c-46db-9740-5c353c605944"
@@ -9030,8 +9030,8 @@
     (property "Datasheet" "" (at 259.715 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid bb98960e-24b9-48d5-aa74-fae39062447e))
-    (pin "" (uuid bb98960e-24b9-48d5-aa74-fae39062447e))
+    (pin "" (uuid bb98960e-24b9-48d5-aa74-fae390624481))
+    (pin "" (uuid bb98960e-24b9-48d5-aa74-fae390624481))
     (instances
       (project "radio20-synth"
         (path "/55870dc1-a751-4fb1-a7eb-fe844b64659b/e9549de8-423c-46db-9740-5c353c605944"
@@ -9236,8 +9236,8 @@
     (property "Datasheet" "" (at 285.75 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid 4853be4f-6a1e-4712-8f24-3284f3363a32))
-    (pin "" (uuid 4853be4f-6a1e-4712-8f24-3284f3363a32))
+    (pin "" (uuid 4853be4f-6a1e-4712-8f24-3284f3363a35))
+    (pin "" (uuid 4853be4f-6a1e-4712-8f24-3284f3363a35))
     (instances
       (project "radio20-synth"
         (path "/55870dc1-a751-4fb1-a7eb-fe844b64659b/e9549de8-423c-46db-9740-5c353c605944"

@@ -244,7 +244,10 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "GOST-2.728",
+      "ladihw"
+    ]
   },
   "meta": {
     "filename": "radio20-synth.kicad_pro",
