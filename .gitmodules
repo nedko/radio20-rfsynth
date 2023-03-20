@@ -1,3 +1,6 @@
 [submodule "ladihw-kicad-symbols"]
 	path = ladihw-kicad-symbols
 	url = ../ladihw-kicad-symbols
+[submodule "kicad-symbols-GOST-2.728"]
+	path = kicad-symbols-GOST-2.728
+	url = ../kicad-symbols-GOST-2.728.git
