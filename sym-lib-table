@@ -1,3 +1,5 @@
 (sym_lib_table
+  (version 7)
   (lib (name "ladihw")(type "KiCad")(uri "${KIPRJMOD}/ladihw-kicad-symbols/ladihw.kicad_sym")(options "")(descr ""))
+  (lib (name "GOST-2.728")(type "KiCad")(uri "${KIPRJMOD}/kicad-symbols-GOST-2.728/GOST-2.728.kicad_sym")(options "")(descr ""))
 )
